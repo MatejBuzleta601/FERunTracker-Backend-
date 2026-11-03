@@ -10,4 +10,4 @@ Node.js, Express.js, MongoDB
 Ideja osmišljena.
 
 ## Povezani repozitorij
-Frontend: (link na frontend repozitorij)
+Frontend: https://github.com/MatejBuzleta601/FERunTracker-Frontend-.git
