@@ -1,0 +1,25 @@
+{
+  "name": "feruntrackerbackend",
+  "version": "1.0.0",
+  "description": "backend for feruntracker",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatejBuzleta601/FERunTracker-Backend-.git"
+  },
+  "author": "Matej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatejBuzleta601/FERunTracker-Backend-/issues"
+  },
+  "homepage": "https://github.com/MatejBuzleta601/FERunTracker-Backend-#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "node": "^27.0.0-alpha.0.0.0",
+    "nodemon": "^3.1.14"
+  }
+}
